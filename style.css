@@ -39,9 +39,9 @@ body {
   margin-bottom: 10px;
   background: var(--light);
   justify-content: space-between;
-  animation: show_toast 0.3s ease forwards;
+  animation: show_anime1 0.3s ease forwards;
 }
-@keyframes show_toast {
+@keyframes show_anime1 {
   0% {
     transform: translateX(100%);
   }
@@ -56,9 +56,9 @@ body {
   }
 }
 .notifications .toast.hide {
-  animation: hide_toast 0.3s ease forwards;
+  animation: hide_anime2 0.3s ease forwards;
 }
-@keyframes hide_toast {
+@keyframes hide_anime2 {
   0% {
     transform: translateX(-10px);
   }
