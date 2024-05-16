@@ -17,3 +17,8 @@ This project demonstrates the creation of basic toast notifications using HTML f
 **Example Usage**
 
 The code currently displays a basic toast notification. You can trigger it or modify its content through JavaScript within the project.
+
+**Feel free to:**
+
+- Experiment with different styles and animations.
+- Enhance functionality with additional features like toast types or dismissal options.
