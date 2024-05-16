@@ -7,3 +7,9 @@ This project demonstrates the creation of basic toast notifications using HTML f
 - Simple toast appearance with customizable content.
 - JavaScript-driven animations for smooth display and disappearance.
 
+**How to Use:**
+
+1. Clone or download the project.
+2. Open the `index.html` file in your web browser.
+3. Modify the HTML and CSS to customize the toast notification's appearance.
+4. Explore the JavaScript code (`script.js`) to understand the logic behind animations and behaviour.
